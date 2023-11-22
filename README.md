@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi, I'm Madhvi Saxena </h1>
 <h2>I'm currently learning Full Stack Web Development.<h2>    
-<img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhvi-saxena-189713270) 
