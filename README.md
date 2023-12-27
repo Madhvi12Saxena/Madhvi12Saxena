@@ -1,8 +1,7 @@
 # 💫 About Me:
  
 Greetings! 👋 I'm Madhvi Saxena, a dynamic full stack web 🌐 developer driven by a fervor for crafting remarkable projects. My current emphasis is on honing my expertise in backend development. Armed with a robust grasp of both frontend and backend technologies, I bring a distinctive outlook to each project. My perpetual pursuit of knowledge and skill enhancement fuels my excitement to uncover the next chapter in my journey as a dedicated developer 👨‍💻.
-
-<img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> 
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhvi-saxena-189713270) 
@@ -21,8 +20,7 @@ Greetings! 👋 I'm Madhvi Saxena, a dynamic full stack web 🌐 developer drive
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Madhvi12Saxena&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Madhvi12Saxena&icon=0&color=0)](https://visitcount.itsvg.in)
