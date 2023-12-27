@@ -1,6 +1,7 @@
 # 💫 About Me:
-<h1>Hi, I'm Madhvi Saxena </h1>
-<h2>I'm currently learning Full Stack Web Development.<h2>    
+ 
+Greetings! 👋 I'm Madhvi Saxena, a dynamic full stack web 🌐 developer driven by a fervor for crafting remarkable projects. My current emphasis is on honing my expertise in backend development. Armed with a robust grasp of both frontend and backend technologies, I bring a distinctive outlook to each project. My perpetual pursuit of knowledge and skill enhancement fuels my excitement to uncover the next chapter in my journey as a dedicated developer 👨‍💻.
+
 <img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> 
 
 ## 🌐 Socials:
